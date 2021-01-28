@@ -13,6 +13,6 @@
     "webpack-dev-server": "^3.11.2"
   },
   "scripts": {
-    "heroku-prebuild": "npm install --dev"  
+    "heroku-prebuild": "npm install --dev"
   }
 }
